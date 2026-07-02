@@ -20,7 +20,7 @@ As the Junior Network Engineer, my first task is to build the initial local netw
 
 ## Network Topology
 
-![Topology](topology.png)
+![Topology](Cisco/topology.png)
 
 ---
 
